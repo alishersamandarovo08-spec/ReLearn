@@ -1,0 +1,10 @@
+{
+  "description": "A social platform designed for focused study with Instagram-like features and AI content filtering to ensure quality, relevant posts and interactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
